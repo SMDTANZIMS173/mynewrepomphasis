@@ -1,4 +1,8 @@
 "hello git how are u"
+<<<<<<< HEAD
 SIMPLE CHANGES FROM GITHUB IN ONLINE
 added content from here
 ============
+=======
+SIMPLE CHANGES FROM GITHUB IN ONLINE ---newthing
+>>>>>>> abb1ad12d8dedd842f9c27b40a8dd858b35d59bd
